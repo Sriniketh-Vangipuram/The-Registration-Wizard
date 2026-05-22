@@ -123,7 +123,7 @@ npm run build
 
 ## 🌐 Live Demo
 
-ADD_YOUR_VERCEL_LINK_HERE
+https://the-registration-wizard-beige.vercel.app/
 
 ---
 
