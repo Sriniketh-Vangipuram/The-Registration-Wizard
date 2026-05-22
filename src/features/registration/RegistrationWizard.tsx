@@ -1,5 +1,3 @@
-// src/features/registration/RegistrationWizard.tsx
-
 import { useState } from "react";
 
 import {

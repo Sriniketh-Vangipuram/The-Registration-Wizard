@@ -1,5 +1,3 @@
-// src/features/registration/components/InputField.tsx
-
 import type { InputHTMLAttributes } from "react";
 
 import {

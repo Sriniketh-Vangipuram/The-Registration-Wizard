@@ -1,5 +1,3 @@
-// src/features/registration/components/PasswordField.tsx
-
 import { useState } from "react";
 
 import {
